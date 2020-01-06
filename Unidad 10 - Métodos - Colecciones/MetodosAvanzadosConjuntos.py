@@ -34,3 +34,6 @@ c1 = {1, 2, 3}
 c2 = {3, 4, 5}
 print("Los valores diferentes entre los conjuntos son :",
       c1.symmetric_difference(c2))
+
+
+
